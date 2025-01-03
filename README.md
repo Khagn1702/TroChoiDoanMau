@@ -1,4 +1,4 @@
 Trò chơi có 7 màu khác nhau(Đỏ, Xanh dương, Vàng, Xanh lá, Cam, Xanh da trời, Tím).
-Trò  chơi  “Đoán màu” được thể hiện : Có từ 4 đến 7 màu, người chơi một lần chỉ đoán 4 màu, có 10 lần đoán. Máy tính sẽ đánh giá mỗi lần đoán và cho biết số vị trí đoán đúng. Sau 10 lần đoán máy tính sẽ cho kết quả  người chơi thắng hay thua.
-Người chơi: Khi bắt đầu chơi chỉ xuất hiện 4 màu ngẫu nhiên. Lúc đó người chơi chỉ cần chọn từ phìm (1 đến 7) để chọn số màu mà người chơi cho là đúng. Nếu sau 10 lần đoán, người chơi đưa ra kết quả trùng với đáp án mà máy tính chọn ngẫu nhiên thì người chơi đã thắng Game 4 màu. Sau khi thắng vòng 4 màu thì số màu sẽ tăng lên là 5 và tiếp tục tăng lên 6, 7, nếu lần này bạn chọn đúng thì bạn là người chiến thắng hoàn toàn. 
-Người chơi sẽ thua khi 10 lần đoán màu không đoán đúng lần nào.
+Trò  chơi  “Đoán màu” được thể hiện : Có từ 4 đến 7 màu, người chơi một lần chỉ đoán 4 màu, có mười lần đoán. Máy tính sẽ đánh giá mỗi lần đoán và cho biết số vị trí đoán đúng. Sau mười lần đoán máy tính sẽ cho kết quả  người chơi thắng hay thua.
+Người chơi: Khi bắt đầu chơi chỉ xuất hiện 4 màu ngẫu nhiên. Lúc đó người chơi chỉ cần chọn từ phìm (1 đến 7) để chọn số màu mà người chơi cho là đúng. Nếu sau mười lần đoán, người chơi đưa ra kết quả trùng với đáp án mà máy tính chọn ngẫu nhiên thì người chơi đã thắng Game 4 màu. Sau khi thắng vòng 4 màu thì số màu sẽ tăng lên là 5 và tiếp tục tăng lên 6, 7, nếu lần này bạn chọn đúng thì bạn là người chiến thắng hoàn toàn. 
+Người chơi sẽ thua khi mười lần đoán màu không đoán đúng lần nào.
